@@ -14,6 +14,24 @@
 		583284EC2B816E19003898D0 /* Results_summary_componentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583284EB2B816E19003898D0 /* Results_summary_componentTests.swift */; };
 		583284F62B816E19003898D0 /* Results_summary_componentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583284F52B816E19003898D0 /* Results_summary_componentUITests.swift */; };
 		583284F82B816E19003898D0 /* Results_summary_componentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583284F72B816E19003898D0 /* Results_summary_componentUITestsLaunchTests.swift */; };
+		583285172B8172EE003898D0 /* HankenGrotesk-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285052B8172EE003898D0 /* HankenGrotesk-ExtraBoldItalic.ttf */; };
+		583285182B8172EE003898D0 /* HankenGrotesk-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285062B8172EE003898D0 /* HankenGrotesk-ExtraLightItalic.ttf */; };
+		583285192B8172EE003898D0 /* HankenGrotesk-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285072B8172EE003898D0 /* HankenGrotesk-MediumItalic.ttf */; };
+		5832851A2B8172EE003898D0 /* HankenGrotesk-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285082B8172EE003898D0 /* HankenGrotesk-Regular.ttf */; };
+		5832851B2B8172EE003898D0 /* HankenGrotesk-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285092B8172EE003898D0 /* HankenGrotesk-SemiBoldItalic.ttf */; };
+		5832851C2B8172EE003898D0 /* HankenGrotesk-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850A2B8172EE003898D0 /* HankenGrotesk-Thin.ttf */; };
+		5832851D2B8172EE003898D0 /* HankenGrotesk-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850B2B8172EE003898D0 /* HankenGrotesk-Black.ttf */; };
+		5832851E2B8172EE003898D0 /* HankenGrotesk-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850C2B8172EE003898D0 /* HankenGrotesk-BoldItalic.ttf */; };
+		5832851F2B8172EE003898D0 /* HankenGrotesk-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850D2B8172EE003898D0 /* HankenGrotesk-SemiBold.ttf */; };
+		583285202B8172EE003898D0 /* HankenGrotesk-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850E2B8172EE003898D0 /* HankenGrotesk-Bold.ttf */; };
+		583285212B8172EE003898D0 /* HankenGrotesk-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5832850F2B8172EE003898D0 /* HankenGrotesk-ExtraBold.ttf */; };
+		583285222B8172EE003898D0 /* HankenGrotesk-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285102B8172EE003898D0 /* HankenGrotesk-ThinItalic.ttf */; };
+		583285232B8172EE003898D0 /* HankenGrotesk-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285112B8172EE003898D0 /* HankenGrotesk-LightItalic.ttf */; };
+		583285242B8172EE003898D0 /* HankenGrotesk-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285122B8172EE003898D0 /* HankenGrotesk-ExtraLight.ttf */; };
+		583285252B8172EE003898D0 /* HankenGrotesk-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285132B8172EE003898D0 /* HankenGrotesk-Light.ttf */; };
+		583285262B8172EE003898D0 /* HankenGrotesk-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285142B8172EE003898D0 /* HankenGrotesk-Medium.ttf */; };
+		583285272B8172EE003898D0 /* HankenGrotesk-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285152B8172EE003898D0 /* HankenGrotesk-Italic.ttf */; };
+		583285282B8172EE003898D0 /* HankenGrotesk-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 583285162B8172EE003898D0 /* HankenGrotesk-BlackItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,25 @@
 		583284F12B816E19003898D0 /* Results-summary-componentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Results-summary-componentUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		583284F52B816E19003898D0 /* Results_summary_componentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Results_summary_componentUITests.swift; sourceTree = "<group>"; };
 		583284F72B816E19003898D0 /* Results_summary_componentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Results_summary_componentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		583285052B8172EE003898D0 /* HankenGrotesk-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		583285062B8172EE003898D0 /* HankenGrotesk-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		583285072B8172EE003898D0 /* HankenGrotesk-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-MediumItalic.ttf"; sourceTree = "<group>"; };
+		583285082B8172EE003898D0 /* HankenGrotesk-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Regular.ttf"; sourceTree = "<group>"; };
+		583285092B8172EE003898D0 /* HankenGrotesk-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		5832850A2B8172EE003898D0 /* HankenGrotesk-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Thin.ttf"; sourceTree = "<group>"; };
+		5832850B2B8172EE003898D0 /* HankenGrotesk-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Black.ttf"; sourceTree = "<group>"; };
+		5832850C2B8172EE003898D0 /* HankenGrotesk-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-BoldItalic.ttf"; sourceTree = "<group>"; };
+		5832850D2B8172EE003898D0 /* HankenGrotesk-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-SemiBold.ttf"; sourceTree = "<group>"; };
+		5832850E2B8172EE003898D0 /* HankenGrotesk-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Bold.ttf"; sourceTree = "<group>"; };
+		5832850F2B8172EE003898D0 /* HankenGrotesk-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-ExtraBold.ttf"; sourceTree = "<group>"; };
+		583285102B8172EE003898D0 /* HankenGrotesk-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-ThinItalic.ttf"; sourceTree = "<group>"; };
+		583285112B8172EE003898D0 /* HankenGrotesk-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-LightItalic.ttf"; sourceTree = "<group>"; };
+		583285122B8172EE003898D0 /* HankenGrotesk-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-ExtraLight.ttf"; sourceTree = "<group>"; };
+		583285132B8172EE003898D0 /* HankenGrotesk-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Light.ttf"; sourceTree = "<group>"; };
+		583285142B8172EE003898D0 /* HankenGrotesk-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Medium.ttf"; sourceTree = "<group>"; };
+		583285152B8172EE003898D0 /* HankenGrotesk-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-Italic.ttf"; sourceTree = "<group>"; };
+		583285162B8172EE003898D0 /* HankenGrotesk-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HankenGrotesk-BlackItalic.ttf"; sourceTree = "<group>"; };
+		583285292B81733B003898D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +131,8 @@
 		583284D92B816E17003898D0 /* Results-summary-component */ = {
 			isa = PBXGroup;
 			children = (
+				583285292B81733B003898D0 /* Info.plist */,
+				583285042B8171B1003898D0 /* Fonts */,
 				583284DA2B816E17003898D0 /* Results_summary_componentApp.swift */,
 				583284DC2B816E17003898D0 /* ContentView.swift */,
 				583284DE2B816E19003898D0 /* Assets.xcassets */,
@@ -125,6 +164,31 @@
 				583284F72B816E19003898D0 /* Results_summary_componentUITestsLaunchTests.swift */,
 			);
 			path = "Results-summary-componentUITests";
+			sourceTree = "<group>";
+		};
+		583285042B8171B1003898D0 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				5832850B2B8172EE003898D0 /* HankenGrotesk-Black.ttf */,
+				583285162B8172EE003898D0 /* HankenGrotesk-BlackItalic.ttf */,
+				5832850E2B8172EE003898D0 /* HankenGrotesk-Bold.ttf */,
+				5832850C2B8172EE003898D0 /* HankenGrotesk-BoldItalic.ttf */,
+				5832850F2B8172EE003898D0 /* HankenGrotesk-ExtraBold.ttf */,
+				583285052B8172EE003898D0 /* HankenGrotesk-ExtraBoldItalic.ttf */,
+				583285122B8172EE003898D0 /* HankenGrotesk-ExtraLight.ttf */,
+				583285062B8172EE003898D0 /* HankenGrotesk-ExtraLightItalic.ttf */,
+				583285152B8172EE003898D0 /* HankenGrotesk-Italic.ttf */,
+				583285132B8172EE003898D0 /* HankenGrotesk-Light.ttf */,
+				583285112B8172EE003898D0 /* HankenGrotesk-LightItalic.ttf */,
+				583285142B8172EE003898D0 /* HankenGrotesk-Medium.ttf */,
+				583285072B8172EE003898D0 /* HankenGrotesk-MediumItalic.ttf */,
+				583285082B8172EE003898D0 /* HankenGrotesk-Regular.ttf */,
+				5832850D2B8172EE003898D0 /* HankenGrotesk-SemiBold.ttf */,
+				583285092B8172EE003898D0 /* HankenGrotesk-SemiBoldItalic.ttf */,
+				5832850A2B8172EE003898D0 /* HankenGrotesk-Thin.ttf */,
+				583285102B8172EE003898D0 /* HankenGrotesk-ThinItalic.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +295,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				583285262B8172EE003898D0 /* HankenGrotesk-Medium.ttf in Resources */,
+				5832851E2B8172EE003898D0 /* HankenGrotesk-BoldItalic.ttf in Resources */,
+				583285232B8172EE003898D0 /* HankenGrotesk-LightItalic.ttf in Resources */,
 				583284E22B816E19003898D0 /* Preview Assets.xcassets in Resources */,
+				583285252B8172EE003898D0 /* HankenGrotesk-Light.ttf in Resources */,
+				583285192B8172EE003898D0 /* HankenGrotesk-MediumItalic.ttf in Resources */,
+				583285182B8172EE003898D0 /* HankenGrotesk-ExtraLightItalic.ttf in Resources */,
+				583285242B8172EE003898D0 /* HankenGrotesk-ExtraLight.ttf in Resources */,
+				5832851F2B8172EE003898D0 /* HankenGrotesk-SemiBold.ttf in Resources */,
+				583285172B8172EE003898D0 /* HankenGrotesk-ExtraBoldItalic.ttf in Resources */,
+				583285222B8172EE003898D0 /* HankenGrotesk-ThinItalic.ttf in Resources */,
+				5832851D2B8172EE003898D0 /* HankenGrotesk-Black.ttf in Resources */,
+				583285212B8172EE003898D0 /* HankenGrotesk-ExtraBold.ttf in Resources */,
+				583285282B8172EE003898D0 /* HankenGrotesk-BlackItalic.ttf in Resources */,
+				5832851A2B8172EE003898D0 /* HankenGrotesk-Regular.ttf in Resources */,
+				583285202B8172EE003898D0 /* HankenGrotesk-Bold.ttf in Resources */,
+				583285272B8172EE003898D0 /* HankenGrotesk-Italic.ttf in Resources */,
 				583284DF2B816E19003898D0 /* Assets.xcassets in Resources */,
+				5832851C2B8172EE003898D0 /* HankenGrotesk-Thin.ttf in Resources */,
+				5832851B2B8172EE003898D0 /* HankenGrotesk-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +502,7 @@
 				DEVELOPMENT_TEAM = H5MNUSUD85;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Results-summary-component/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +532,7 @@
 				DEVELOPMENT_TEAM = H5MNUSUD85;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Results-summary-component/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
